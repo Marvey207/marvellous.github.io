@@ -1,2 +1,2 @@
-# marvellous.github.io
+_config.yml
 student developer passionate about problem-solving. 
